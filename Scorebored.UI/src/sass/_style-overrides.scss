@@ -1,0 +1,59 @@
+.md-card {
+  padding: 0 15px;
+}
+
+.md-field {
+  padding-top: 18px !important;
+  padding-bottom: 5px !important;
+}
+
+.md-title,
+h1 {
+  font-family: $header-font !important;
+  font-weight: $header-font-weight !important;
+}
+
+.md-button {
+  font-family: $primary-font !important;
+  font-weight: $primary-font-weight !important;
+}
+
+body {
+  font-family: $primary-font, Roboto, sans-serif !important;
+  font-weight: $primary-font-weight !important;
+}
+
+button {
+  .md-progress-spinner.md-theme-default .md-progress-spinner-circle {
+    stroke: #ffffff !important;
+  }
+}
+
+.page-container {
+  height: 100vh !important;
+}
+
+.md-app {
+  height: 100%;
+}
+
+.md-drawer {
+  width: 270px !important;
+}
+
+.md-icon {
+  font-weight: 400 !important;
+}
+
+.md-empty-state-label {
+  font-weight: 600 !important;
+}
+
+.md-list-item-text {
+  font-weight: 600 !important;
+}
+
+.md-list.md-theme-default .md-selected .md-list-item-content,
+.md-list.md-theme-default .router-link-exact-active .md-list-item-content {
+  color: black !important;
+}

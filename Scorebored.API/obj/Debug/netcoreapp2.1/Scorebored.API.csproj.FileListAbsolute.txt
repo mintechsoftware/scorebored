@@ -1,0 +1,14 @@
+/Users/brianminter/Desktop/scorebored/Scorebored.API/bin/Debug/netcoreapp2.1/Scorebored.API.deps.json
+/Users/brianminter/Desktop/scorebored/Scorebored.API/bin/Debug/netcoreapp2.1/Scorebored.API.runtimeconfig.json
+/Users/brianminter/Desktop/scorebored/Scorebored.API/bin/Debug/netcoreapp2.1/Scorebored.API.runtimeconfig.dev.json
+/Users/brianminter/Desktop/scorebored/Scorebored.API/bin/Debug/netcoreapp2.1/Scorebored.API.dll
+/Users/brianminter/Desktop/scorebored/Scorebored.API/bin/Debug/netcoreapp2.1/Scorebored.API.pdb
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.csprojAssemblyReference.cache
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.csproj.CoreCompileInputs.cache
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.RazorAssemblyInfo.cache
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.RazorAssemblyInfo.cs
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.AssemblyInfoInputs.cache
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.AssemblyInfo.cs
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.RazorTargetAssemblyInfo.cache
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.dll
+/Users/brianminter/Desktop/scorebored/Scorebored.API/obj/Debug/netcoreapp2.1/Scorebored.API.pdb

@@ -1,0 +1,9 @@
+@import "variables";
+@import "style-overrides";
+@import "~vue-material/dist/theme/engine";
+
+@include md-register-theme("default", (primary: $primary-color,
+accent: $secondary-color,
+theme: light));
+
+@import "~vue-material/dist/theme/all";

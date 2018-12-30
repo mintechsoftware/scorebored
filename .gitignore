@@ -1,0 +1,5 @@
+.DS_Store
+Scorebored.API/appsettings.json
+*.dll
+*.pdb
+*.cache
